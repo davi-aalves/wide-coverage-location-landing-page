@@ -3,6 +3,8 @@
 ## :memo: Descrição
 Essa Landing Page foi criada inicialmente para praticar os conceitos básicos de HTML e CSS (desde a estilização até a responsividade).
 
+*Segue link da aplicação: https://davi-aalves.github.io/wide-coverage-location-landing-page/
+
 ## :wrench: Tecnologias utilizadas
 * HTML;
 * CSS;
